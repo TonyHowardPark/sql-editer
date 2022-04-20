@@ -6,6 +6,8 @@
 
 
 ### 使用方法：
+npm install --save sql-formatter
+npm install --save vue-codemirror 
 
 ``` bash
 下载node_model文件：npm install
