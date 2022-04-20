@@ -6,10 +6,12 @@
 
 
 ### 使用方法：
+
+
+``` bash
 npm install --save sql-formatter
 npm install --save vue-codemirror 
 
-``` bash
 下载node_model文件：npm install
 
 # 本地运行项目
