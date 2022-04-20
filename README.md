@@ -1,7 +1,9 @@
-## 前端vue项目中使用sql-formatter结合codemirror实现sql编辑器中的SQL代码格式化功能、自动匹配大小写功能、高亮功能
+
+
+## vue用sql-formatter结合codemirror实现sql编辑器中的SQL代码格式化功能、自动匹配大小写功能、高亮功能
 
 主要实现的功能就是SQL编辑器，可以让SQL代码实现格式化代码、自动匹配大小写、高亮等功能
-### 详文可参考：https://blog.csdn.net/weixin_45851208/article/details/105118847
+
 
 ### 使用方法：
 
@@ -23,5 +25,4 @@ npm run build
 2.光标一直处于中间位置，出现这个问题还是需要检查大家自己的样式问题。本身它的封装是靠左显示的。
 
 最终效果：
-![image](https://user-images.githubusercontent.com/19965530/139035191-bf81ab65-7ff7-4208-8921-b58ba2f8c764.png)
-
+![image](https://user-images.githubusercontent.com/22095043/164205240-47641479-56c3-428b-bff8-948b1ff3c277.png)
